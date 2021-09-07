@@ -1,7 +1,6 @@
 ## Please install below modules first for this project to work
 
-`pip3 install boto3`
-`pip3 install datadog`
+`pip3 install boto3 datadog`
 
 ## After that please export below environment variables as per your choice
 
