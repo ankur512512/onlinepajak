@@ -5,7 +5,7 @@
 ## After that please export below environment variables as per your choice
 
 `export AWS_ACCESS_KEY=<your-aws-access-key>`  
-`export AWS_ACCESS_KEY=<your-aws-secret-key>`  
+`export AWS_SECRET_KEY=<your-aws-secret-key>`  
 `export DATADOG_API_KEY=<your-datadog-api-key>`
 
 ## Then execute the script using any of the below options:
