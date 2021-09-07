@@ -10,7 +10,7 @@
 
 ## Then clone this git repo and cd into it
 
-`git clone https://github.com/ankur512512/onlinepajak.git`
+`git clone https://github.com/ankur512512/onlinepajak.git`  
 `cd onlinepajak`
 
 ## Then execute the script using any of the below options:
