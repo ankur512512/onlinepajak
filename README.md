@@ -13,7 +13,7 @@
 `git clone https://github.com/ankur512512/onlinepajak.git`  
 `cd onlinepajak`
 
-## Then execute the script using any of the below options:
+## Then execute the script using any of the below options (*make sure you have python 3.x*) :
 
 `python bucket.py send` # Send data to datadog; setting current date as today's date  
 `python bucket.py send 2021-08-26` # Send data to datadog; setting current date as 2021-08-26  
